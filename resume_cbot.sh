@@ -19,7 +19,3 @@ tmux send-keys -t $session "start" Enter
 else
     echo no active session called $session
 fi
-
-# Attach to created session
-#   tmux attach-session -t $session
-#   not needed since
