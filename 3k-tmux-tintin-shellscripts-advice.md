@@ -7,5 +7,6 @@
  - the period sign basically means "current directory"
  - ergo copy the files in this repo to the current directory
 
+chown $USER 3k-tmux-tintin-shellscripts/
 
 cp 3k-tmux-tintin-shellscripts/* .
